@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../HW8.srcs/sources_1/imports/Proj_CA_Lab8/if_id_reg.vhd" \
+"../../../../HW8.srcs/sources_1/imports/Proj_CA_Lab8/pc_reg.vhd" \
+"../../../../HW8.srcs/sources_1/imports/Proj_CA_Lab8/next_pc_mux.vhd" \
+"../../../../HW8.srcs/sources_1/imports/Proj_CA_Lab8/instr_mem.vhd" \
+"../../../../HW8.srcs/sources_1/imports/Proj_CA_Lab8/if_stage_top.vhd" \
+"../../../../HW8.srcs/sim_1/imports/Proj_CA_Lab8/if_stage_tb.vhd" \
+
+# Do not sort compile order
+nosort

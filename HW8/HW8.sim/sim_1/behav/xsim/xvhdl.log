@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sources_1/imports/Proj_CA_Lab8/if_id_reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'if_id_reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sources_1/imports/Proj_CA_Lab8/pc_reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pc_reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sources_1/imports/Proj_CA_Lab8/next_pc_mux.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'next_pc_mux'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sources_1/imports/Proj_CA_Lab8/instr_mem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'instr_mem'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sources_1/imports/Proj_CA_Lab8/if_stage_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'if_stage_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/radin/Downloads/Proj_CA_Lab8/HW8/HW8.srcs/sim_1/imports/Proj_CA_Lab8/if_stage_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'if_stage_tb'
